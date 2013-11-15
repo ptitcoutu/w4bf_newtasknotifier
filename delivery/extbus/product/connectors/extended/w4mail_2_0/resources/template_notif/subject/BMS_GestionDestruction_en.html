@@ -1,0 +1,17 @@
+#set( $stepTranslate = {"Valider par Dir. Financière" : "Approve by Financial Dir.", 
+         "Rédiger demande":"Fill Request",
+         "Bloquer le lot":"Block the Batch",
+         "Valider par Approbateur":"Approve by Approver",
+         "Valider par Approbateur Niveau 2":"Approve by 2nd Level Approver",                  
+         "Valider par Direction Site" : "Approve by Site Dir.",
+         "Valider par Responsable" : "Approve by Responsible",
+         "Depassement 2J":"2D Overdue",
+         "Demande à revoir ":"Ask for review",
+         "Demander à revoir":"Ask for review",
+         "Demande Approuvée":"Approved Request",
+         "Détruire le lot":"Destroy the batch",
+         "Revoir demande":"Review Request",
+         "Statut bloqué ?":"Is Batch Blocked ?"}) 
+#set( $stepName = $taskVariables.Step.Value )
+#set( $isTranslated = $stepTranslate.containsKey($stepName) )
+New task #${taskVariables.Task.Value} : #if($isTranslated) ${stepTranslate.get($stepName)} #else ${stepName} #end 

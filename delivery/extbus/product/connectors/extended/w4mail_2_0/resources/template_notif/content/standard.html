@@ -1,0 +1,19 @@
+
+#set( $activity =  $taskVariables.Activity.Value.replaceAll("([^_A-Z])([A-Z])","$1_$2").toLowerCase() )
+#set( $bfApp = $taskVariables.Application.Value.toLowerCase() )
+
+
+<html>
+<body>
+<pre style="font:12px arial,sans-serif;color:darkgrey;">
+Bonjour, 
+  <a style="font:12px arial,sans-serif;color:darkblue;text-decoration:none;" href="http://localhost:8090/$bfApp/invoke.htm?_action=w4_activity_${activity}_process_task&_classInfo=w4_activity_${activity}_class&_objectId=${taskVariables.Task.Value}&_new_session=true&_dashboard=true">La tâche "${taskVariables.Step.Value}" n° ${taskVariables.Task.Value}</a> vous a été assignée pour le dossier ${taskVariables.Workcase.value}. 
+  Veuillez <a style="font:12px arial,sans-serif;color:darkblue;text-decoration:none;" href="http://localhost:8090/$bfApp/invoke.htm?_action=guiWorkItems&_classInfo=w4_task_cls&_classFilter=active_assigned_to_user&_sort=w4_sort_by_date_desc&_new_session=true&_dashboard=true">vérifier votre corbeille de tâche </a> pour de plus amples détails.
+
+   Cordialement,
+
+        W4
+        
+</pre>
+</body>
+</html>
