@@ -1,0 +1,25 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>eu.w4.tasknotifier</groupId>
+  <artifactId>MailNotifier</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>Task Notifier</name>
+  <description>Enable task notification (start a notification process by default)</description>
+  <dependencies>
+  	<dependency>
+  		<groupId>w4</groupId>
+  		<artifactId>bpmapi</artifactId>
+  		<version>8.8</version>
+  	</dependency>
+  	<dependency>
+  		<groupId>w4</groupId>
+  		<artifactId>extbus</artifactId>
+  		<version>8.8</version>
+  	</dependency>
+  	<dependency>
+  		<groupId>w4</groupId>
+  		<artifactId>wfjlib</artifactId>
+  		<version>8.8</version>
+  	</dependency>
+  </dependencies>
+</project>
