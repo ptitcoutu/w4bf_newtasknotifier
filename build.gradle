@@ -41,9 +41,9 @@ dependencies {
 
 task dist(type:Zip) {
 	from('delivery/') {
-      into ('delivery')
+      into ('')
     }
     from(jar.outputs.files) {
-		into ('delivery/extbus/product/notifier')
+		into ('extbus/product/notifier')
     }
 }
