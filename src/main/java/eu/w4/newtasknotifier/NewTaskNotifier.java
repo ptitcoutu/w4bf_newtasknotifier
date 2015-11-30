@@ -179,6 +179,20 @@ public class NewTaskNotifier implements W4Listener
 
           final BPMVariableMap notifProcVars = BPMVariables.createVariableMap();
           final List<String> allActors = getPotentialTaskActors(sessionId, task);
+          String subjectCategory = "subject";
+          String contentCategory = "content";
+          if(allActors.isEmpty()) 
+          {
+        	  log.warning("No actor found for task "+task.getId().getInternalId()+". Notification will be sent to responsible"); 
+        	  allActors.addAll(getWorkcaseResponsible(sessionId, task));
+        	  subjectCategory = "noActorSubject";
+        	  contentCategory = "noActorContent";
+          } 
+          if(allActors.isEmpty())
+          {
+        	  log.warning("No responsible found for task "+task.getId().getInternalId()+". Notification will be sent to w4adm");
+        	  allActors.add("w4adm");
+          }
 
           notifProcVars.put(BPMVariables.createVariable("Actors",
                                                         BPMDataType.STRING_LIST, allActors));
@@ -189,10 +203,10 @@ public class NewTaskNotifier implements W4Listener
           notifProcVars.put(BPMVariables.createVariable("__leon.application.name",
                                                         BPMDataType.STRING, app));
 
-          final String subjectTemplate = getTemplate("subject",
+          final String subjectTemplate = getTemplate(subjectCategory,
                                                      task.getProcessId().getLogicalId(),
                                                      task.getActivityId().getLogicalId());
-          final String contentTemplate = getTemplate("content",
+          final String contentTemplate = getTemplate(contentCategory,
                                                      task.getProcessId().getLogicalId(),
                                                      task.getActivityId().getLogicalId());
           notifProcVars.put(BPMVariables.createVariable("SubjectTemplate",
@@ -329,6 +343,67 @@ public class NewTaskNotifier implements W4Listener
         return allActors;
       }
 
+      private List<String> getWorkcaseResponsible(final BPMSessionId sessionId,
+	              final BPMTaskSnapshot task) throws BPMException
+      {
+		final List<String> allResponsible = new ArrayList<String>();
+		final BPMId domainId = task.getDomainId();
+		final BPMId workcaseId = task.getWorkcaseId();
+		final BPMWorkcaseSnapshot workcase = _workcaseService.getWorkcase(sessionId, workcaseId);
+		final BPMId responsibleRoleId = workcase.getResponsibleRoleId();
+		final BPMId responsibleId = workcase.getResponsibleId();
+		if(responsibleId != null) 
+		{
+			allResponsible.add(responsibleId.getLogicalId());
+		}
+		if (responsibleRoleId != null)
+		{
+			final BPMCastFilter mainCastFilter = _actorService.createCastFilter();
+			final ArrayList<BPMCastFilter> castFilters = new ArrayList<BPMCastFilter>();
+			BPMId parentDomainId = domainId;
+			while (!"global".equals(parentDomainId.getLogicalId()))
+			{
+				final BPMDomainSnapshot parentDomain = _domainService.getDomain(
+	                                        sessionId, parentDomainId);
+				parentDomainId = parentDomain.getUpperDomainId();
+				final BPMCastFilter castFilter = _actorService.createCastFilter();
+				castFilter.roleIs(responsibleRoleId);
+				castFilter.domainIs(parentDomainId);
+				castFilters.add(castFilter);
+			}
+			if (castFilters.size() > 0)
+			{
+				final BPMCastFilter castFilter = _actorService.createCastFilter();
+				castFilter.roleIs(responsibleRoleId);
+				castFilter.domainIs(domainId);
+				castFilters.add(castFilter);
+	
+				final BPMCastFilter[] castFiltersArray = castFilters
+						.toArray(new BPMCastFilter[castFilters.size()]);
+				mainCastFilter.or(castFiltersArray);
+			}
+			else
+			{
+				mainCastFilter.domainIs(domainId);
+				mainCastFilter.roleIs(responsibleRoleId);
+			}
+			final BPMCastSort castSort = _actorService.createCastSort(
+	                                BPMCastSortBy.ACTOR_NAME, BPMSortMode.ASC);
+			final List<BPMCastSort> castSorts = new ArrayList<BPMCastSort>(1);
+			castSorts.add(castSort);
+			final List<BPMCastSnapshot> casts = _actorService.searchCasts(
+					sessionId, mainCastFilter, castSorts);
+			for (BPMCastSnapshot cast : casts)
+			{
+				final BPMActorSnapshot actor = cast.getActor();
+				final String actorLogin = actor.getId().getLogicalId();
+				allResponsible.add(actorLogin);
+			}
+		}
+		return allResponsible;
+      }      
+      
+      
       public String getTemplate(final String category, final String procedure,
                                 final String activity)
       {

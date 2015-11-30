@@ -1,36 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" output="target/classes" path="src/main/java">
-		<attributes>
-			<attribute name="optional" value="true"/>
-			<attribute name="maven.pomderived" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
-		<attributes>
-			<attribute name="maven.pomderived" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
-		<attributes>
-			<attribute name="optional" value="true"/>
-			<attribute name="maven.pomderived" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
-		<attributes>
-			<attribute name="maven.pomderived" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
-		<attributes>
-			<attribute name="maven.pomderived" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
-		<attributes>
-			<attribute name="maven.pomderived" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="output" path="target/classes"/>
+	<classpathentry kind="output" path="bin"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="src" path="src/test/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/w4/bf/ProcessEngine/extbus/product/common/lib/commons-jexl-2.jar"/>
+	<classpathentry kind="lib" path="C:/w4/bf/ProcessEngine/extbus/product/common/lib/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/w4/bf/ProcessEngine/extbus/product/common/lib/extbus.jar"/>
+	<classpathentry kind="lib" path="C:/w4/bf/ProcessEngine/extbus/product/common/lib/jtds.jar"/>
+	<classpathentry kind="lib" path="C:/w4/bf/ProcessEngine/extbus/product/common/lib/leon.jar"/>
+	<classpathentry kind="lib" path="C:/w4/bf/ProcessEngine/extbus/product/common/lib/mvel2.jar"/>
+	<classpathentry kind="lib" path="C:/w4/bf/ProcessEngine/extbus/product/common/lib/ojdbc.jar"/>
+	<classpathentry kind="lib" path="C:/w4/bf/ProcessEngine/extbus/product/common/lib/postgresql.jar"/>
+	<classpathentry kind="lib" path="C:/w4/bf/ProcessEngine/extbus/product/common/lib/restfb.jar"/>
+	<classpathentry kind="lib" path="C:/w4/bf/ProcessEngine/extbus/product/common/lib/twitter4j-async.jar"/>
+	<classpathentry kind="lib" path="C:/w4/bf/ProcessEngine/extbus/product/common/lib/twitter4j-core.jar"/>
+	<classpathentry kind="lib" path="C:/w4/bf/ProcessEngine/extbus/product/common/lib/twitter4j-stream.jar"/>
+	<classpathentry kind="lib" path="C:/w4/bf/ProcessEngine/extbus/product/common/lib/w4bpmapi.jar"/>
+	<classpathentry kind="lib" path="C:/w4/bf/ProcessEngine/extbus/product/common/lib/wfjlib.jar"/>
 </classpath>

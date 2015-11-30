@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
 <jardesc>
-    <jar path="C:/dev/w4/w4engine/extbus/product/notifier/newtasknotifier.jar"/>
+    <jar path="C:/w4/bf_nb/engine/extbus/product/notifier/newtasknotifier.jar"/>
     <options buildIfNeeded="true" compress="true" descriptionLocation="/MailNotifier/export_to_localextbus.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
     <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
     <selectedProjects/>
@@ -11,11 +11,11 @@
         </sealing>
     </manifest>
     <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
-        <javaElement handleIdentifier="=MailNotifier/src\/main\/java"/>
-        <file path="/MailNotifier/pom.xml"/>
-        <file path="/MailNotifier/.checkstyle"/>
-        <file path="/MailNotifier/.classpath"/>
-        <file path="/MailNotifier/.project"/>
         <javaElement handleIdentifier="=MailNotifier/src\/main\/resources"/>
+        <file path="/MailNotifier/pom.xml"/>
+        <javaElement handleIdentifier="=MailNotifier/src\/main\/java"/>
+        <file path="/MailNotifier/.checkstyle"/>
+        <file path="/MailNotifier/.project"/>
+        <file path="/MailNotifier/.classpath"/>
     </selectedElements>
 </jardesc>
