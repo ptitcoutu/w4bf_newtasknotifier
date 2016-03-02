@@ -127,7 +127,12 @@ public class NewTaskNotifier implements W4Listener
       public void run()
       {
         final int taskId = w4Message.getTaskId();
-        log.info(" process notify task id  : " + taskId);
+        if(taskId <0) {
+        	log.debug("rejected negative task id  : " + taskId);
+        	return;
+        } else {
+        	log.info(" process notify task id  : " + taskId);
+        }
         BPMSessionId sessionId = null;
 
         try
