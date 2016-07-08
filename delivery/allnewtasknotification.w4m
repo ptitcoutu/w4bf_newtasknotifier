@@ -1,0 +1,5760 @@
+<?xml version="1.0" encoding="UTF-8"?><WFMESSAGE VENDOR='W4' VERSION='9.4.0.0'>
+<TFULLPROCEDURE>
+
+<FULLPROCEDURE ORDER='1'>
+	<ICN>
+		<GRAPHICS>
+			<LG><![CDATA[776]]></LG>
+				
+			<DATA><![CDATA[AQAAAPX///8MAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABUYWhvbWEAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAs////zAAAACy////AAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAG4AAACr////3gAAAJz///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAEAALP/
+//8IAQAAsv///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAQAAs////0ABAACy////AAAAAAMAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=]]></DATA>
+				</GRAPHICS>
+			
+		<TNODE>
+			<NODE ORDER='1'>
+				<PRIORITY><![CDATA[0]]></PRIORITY>
+					
+				<TYPE><![CDATA[85]]></TYPE>
+					
+				<DESCRIPTION><![CDATA[]]></DESCRIPTION>
+					
+				<CENTER>
+					<X><![CDATA[32]]></X>
+						
+					<Y><![CDATA[-40]]></Y>
+						</CENTER>
+					
+				<TAGCENTER>
+					<X><![CDATA[64]]></X>
+						
+					<Y><![CDATA[-72]]></Y>
+						</TAGCENTER>
+					
+				<ALGO><![CDATA[0]]></ALGO>
+					
+				<PROCEDURE>
+					<ID><![CDATA[46030]]></ID>
+						
+					<STR><![CDATA[ALLNEWTASK_NOTIFICATION]]></STR>
+						</PROCEDURE>
+					
+				<ACTIVITYSUBPROCEDURE>
+					<ID><![CDATA[0]]></ID>
+						
+					<STR><![CDATA[]]></STR>
+						</ACTIVITYSUBPROCEDURE>
+					
+				<SAMEAS>
+					<ID><![CDATA[-1]]></ID>
+						
+					<STR><![CDATA[]]></STR>
+						</SAMEAS>
+					
+				<ROLEREF>
+					<ID><![CDATA[0]]></ID>
+						
+					<STR><![CDATA[]]></STR>
+						</ROLEREF>
+					
+				<DYNASSIGN>
+					<ID><![CDATA[0]]></ID>
+						
+					<STR><![CDATA[]]></STR>
+						</DYNASSIGN>
+					
+				<ALARM>
+					<MONTH><![CDATA[0]]></MONTH>
+						
+					<YEAR><![CDATA[0]]></YEAR>
+						
+					<DAY><![CDATA[0]]></DAY>
+						
+					<HOUR><![CDATA[0]]></HOUR>
+						
+					<MINUTE><![CDATA[0]]></MINUTE>
+						
+					<SECOND><![CDATA[0]]></SECOND>
+						</ALARM>
+					
+				<NODESIZE>
+					<HEIGHT><![CDATA[0]]></HEIGHT>
+						
+					<WIDTH><![CDATA[0]]></WIDTH>
+						</NODESIZE>
+					
+				<COMMAND_LINE><![CDATA[://delai:0:0:0:0:]]></COMMAND_LINE>
+					
+				<TVARIABLEMAPPING></TVARIABLEMAPPING>
+					
+				<OVERDUELIMIT>
+					<MONTH><![CDATA[0]]></MONTH>
+						
+					<YEAR><![CDATA[0]]></YEAR>
+						
+					<DAY><![CDATA[0]]></DAY>
+						
+					<HOUR><![CDATA[0]]></HOUR>
+						
+					<MINUTE><![CDATA[0]]></MINUTE>
+						
+					<SECOND><![CDATA[0]]></SECOND>
+						</OVERDUELIMIT>
+					
+				<ID><![CDATA[1]]></ID>
+					
+				<STR><![CDATA[]]></STR>
+					</NODE>
+				
+			<NODE ORDER='2'>
+				<PRIORITY><![CDATA[0]]></PRIORITY>
+					
+				<TYPE><![CDATA[37]]></TYPE>
+					
+				<DESCRIPTION><![CDATA[]]></DESCRIPTION>
+					
+				<CENTER>
+					<X><![CDATA[112]]></X>
+						
+					<Y><![CDATA[-32]]></Y>
+						</CENTER>
+					
+				<TAGCENTER>
+					<X><![CDATA[220]]></X>
+						
+					<Y><![CDATA[-80]]></Y>
+						</TAGCENTER>
+					
+				<ALGO><![CDATA[0]]></ALGO>
+					
+				<PROCEDURE>
+					<ID><![CDATA[46030]]></ID>
+						
+					<STR><![CDATA[ALLNEWTASK_NOTIFICATION]]></STR>
+						</PROCEDURE>
+					
+				<ACTIVITYSUBPROCEDURE>
+					<ID><![CDATA[0]]></ID>
+						
+					<STR><![CDATA[__nop_1_0]]></STR>
+						</ACTIVITYSUBPROCEDURE>
+					
+				<SAMEAS>
+					<ID><![CDATA[-1]]></ID>
+						
+					<STR><![CDATA[]]></STR>
+						</SAMEAS>
+					
+				<ROLEREF>
+					<ID><![CDATA[0]]></ID>
+						
+					<STR><![CDATA[]]></STR>
+						</ROLEREF>
+					
+				<DYNASSIGN>
+					<ID><![CDATA[-1]]></ID>
+						
+					<STR><![CDATA[]]></STR>
+						</DYNASSIGN>
+					
+				<ALARM>
+					<MONTH><![CDATA[0]]></MONTH>
+						
+					<YEAR><![CDATA[0]]></YEAR>
+						
+					<DAY><![CDATA[0]]></DAY>
+						
+					<HOUR><![CDATA[0]]></HOUR>
+						
+					<MINUTE><![CDATA[0]]></MINUTE>
+						
+					<SECOND><![CDATA[0]]></SECOND>
+						</ALARM>
+					
+				<NODESIZE>
+					<HEIGHT><![CDATA[0]]></HEIGHT>
+						
+					<WIDTH><![CDATA[0]]></WIDTH>
+						</NODESIZE>
+					
+				<COMMAND_LINE><![CDATA[://delai:0:0:0:0:]]></COMMAND_LINE>
+					
+				<TVARIABLEMAPPING>
+					<VARIABLEMAPPING ORDER='1'>
+						<TYPE><![CDATA[3]]></TYPE>
+							
+						<MODE><![CDATA[8]]></MODE>
+							
+						<PROVARNAME>
+							<ID><![CDATA[0]]></ID>
+								
+							<STR><![CDATA[_P_CONNECTOR_ID6]]></STR>
+								</PROVARNAME>
+							
+						<ACTVARNAME>
+							<ID><![CDATA[0]]></ID>
+								
+							<STR><![CDATA[P_CONNECTOR_ID]]></STR>
+								</ACTVARNAME>
+							</VARIABLEMAPPING>
+						
+					<VARIABLEMAPPING ORDER='2'>
+						<TYPE><![CDATA[3]]></TYPE>
+							
+						<MODE><![CDATA[8]]></MODE>
+							
+						<PROVARNAME>
+							<ID><![CDATA[0]]></ID>
+								
+							<STR><![CDATA[_P_CONNECTOR_VERSION6]]></STR>
+								</PROVARNAME>
+							
+						<ACTVARNAME>
+							<ID><![CDATA[0]]></ID>
+								
+							<STR><![CDATA[P_CONNECTOR_VERSION]]></STR>
+								</ACTVARNAME>
+							</VARIABLEMAPPING>
+						</TVARIABLEMAPPING>
+					
+				<OVERDUELIMIT>
+					<MONTH><![CDATA[0]]></MONTH>
+						
+					<YEAR><![CDATA[0]]></YEAR>
+						
+					<DAY><![CDATA[0]]></DAY>
+						
+					<HOUR><![CDATA[0]]></HOUR>
+						
+					<MINUTE><![CDATA[0]]></MINUTE>
+						
+					<SECOND><![CDATA[0]]></SECOND>
+						</OVERDUELIMIT>
+					
+				<ID><![CDATA[2]]></ID>
+					
+				<STR><![CDATA[Propagate Notification]]></STR>
+					</NODE>
+				
+			<NODE ORDER='3'>
+				<PRIORITY><![CDATA[0]]></PRIORITY>
+					
+				<TYPE><![CDATA[86]]></TYPE>
+					
+				<DESCRIPTION><![CDATA[]]></DESCRIPTION>
+					
+				<CENTER>
+					<X><![CDATA[248]]></X>
+						
+					<Y><![CDATA[-40]]></Y>
+						</CENTER>
+					
+				<TAGCENTER>
+					<X><![CDATA[280]]></X>
+						
+					<Y><![CDATA[-72]]></Y>
+						</TAGCENTER>
+					
+				<ALGO><![CDATA[0]]></ALGO>
+					
+				<PROCEDURE>
+					<ID><![CDATA[46030]]></ID>
+						
+					<STR><![CDATA[ALLNEWTASK_NOTIFICATION]]></STR>
+						</PROCEDURE>
+					
+				<ACTIVITYSUBPROCEDURE>
+					<ID><![CDATA[0]]></ID>
+						
+					<STR><![CDATA[]]></STR>
+						</ACTIVITYSUBPROCEDURE>
+					
+				<SAMEAS>
+					<ID><![CDATA[-1]]></ID>
+						
+					<STR><![CDATA[]]></STR>
+						</SAMEAS>
+					
+				<ROLEREF>
+					<ID><![CDATA[0]]></ID>
+						
+					<STR><![CDATA[]]></STR>
+						</ROLEREF>
+					
+				<DYNASSIGN>
+					<ID><![CDATA[0]]></ID>
+						
+					<STR><![CDATA[]]></STR>
+						</DYNASSIGN>
+					
+				<ALARM>
+					<MONTH><![CDATA[0]]></MONTH>
+						
+					<YEAR><![CDATA[0]]></YEAR>
+						
+					<DAY><![CDATA[0]]></DAY>
+						
+					<HOUR><![CDATA[0]]></HOUR>
+						
+					<MINUTE><![CDATA[0]]></MINUTE>
+						
+					<SECOND><![CDATA[0]]></SECOND>
+						</ALARM>
+					
+				<NODESIZE>
+					<HEIGHT><![CDATA[0]]></HEIGHT>
+						
+					<WIDTH><![CDATA[0]]></WIDTH>
+						</NODESIZE>
+					
+				<COMMAND_LINE><![CDATA[://delai:0:0:0:0:]]></COMMAND_LINE>
+					
+				<TVARIABLEMAPPING></TVARIABLEMAPPING>
+					
+				<OVERDUELIMIT>
+					<MONTH><![CDATA[0]]></MONTH>
+						
+					<YEAR><![CDATA[0]]></YEAR>
+						
+					<DAY><![CDATA[0]]></DAY>
+						
+					<HOUR><![CDATA[0]]></HOUR>
+						
+					<MINUTE><![CDATA[0]]></MINUTE>
+						
+					<SECOND><![CDATA[0]]></SECOND>
+						</OVERDUELIMIT>
+					
+				<ID><![CDATA[3]]></ID>
+					
+				<STR><![CDATA[]]></STR>
+					</NODE>
+				
+			<NODE ORDER='4'>
+				<PRIORITY><![CDATA[0]]></PRIORITY>
+					
+				<TYPE><![CDATA[87]]></TYPE>
+					
+				<DESCRIPTION><![CDATA[]]></DESCRIPTION>
+					
+				<CENTER>
+					<X><![CDATA[304]]></X>
+						
+					<Y><![CDATA[-40]]></Y>
+						</CENTER>
+					
+				<TAGCENTER>
+					<X><![CDATA[336]]></X>
+						
+					<Y><![CDATA[-72]]></Y>
+						</TAGCENTER>
+					
+				<ALGO><![CDATA[0]]></ALGO>
+					
+				<PROCEDURE>
+					<ID><![CDATA[46030]]></ID>
+						
+					<STR><![CDATA[ALLNEWTASK_NOTIFICATION]]></STR>
+						</PROCEDURE>
+					
+				<ACTIVITYSUBPROCEDURE>
+					<ID><![CDATA[0]]></ID>
+						
+					<STR><![CDATA[]]></STR>
+						</ACTIVITYSUBPROCEDURE>
+					
+				<SAMEAS>
+					<ID><![CDATA[-1]]></ID>
+						
+					<STR><![CDATA[]]></STR>
+						</SAMEAS>
+					
+				<ROLEREF>
+					<ID><![CDATA[0]]></ID>
+						
+					<STR><![CDATA[]]></STR>
+						</ROLEREF>
+					
+				<DYNASSIGN>
+					<ID><![CDATA[0]]></ID>
+						
+					<STR><![CDATA[]]></STR>
+						</DYNASSIGN>
+					
+				<ALARM>
+					<MONTH><![CDATA[0]]></MONTH>
+						
+					<YEAR><![CDATA[0]]></YEAR>
+						
+					<DAY><![CDATA[0]]></DAY>
+						
+					<HOUR><![CDATA[0]]></HOUR>
+						
+					<MINUTE><![CDATA[0]]></MINUTE>
+						
+					<SECOND><![CDATA[0]]></SECOND>
+						</ALARM>
+					
+				<NODESIZE>
+					<HEIGHT><![CDATA[0]]></HEIGHT>
+						
+					<WIDTH><![CDATA[0]]></WIDTH>
+						</NODESIZE>
+					
+				<COMMAND_LINE><![CDATA[://delai:0:0:0:0:]]></COMMAND_LINE>
+					
+				<TVARIABLEMAPPING></TVARIABLEMAPPING>
+					
+				<OVERDUELIMIT>
+					<MONTH><![CDATA[0]]></MONTH>
+						
+					<YEAR><![CDATA[0]]></YEAR>
+						
+					<DAY><![CDATA[0]]></DAY>
+						
+					<HOUR><![CDATA[0]]></HOUR>
+						
+					<MINUTE><![CDATA[0]]></MINUTE>
+						
+					<SECOND><![CDATA[0]]></SECOND>
+						</OVERDUELIMIT>
+					
+				<ID><![CDATA[4]]></ID>
+					
+				<STR><![CDATA[]]></STR>
+					</NODE>
+				</TNODE>
+			
+		<TARC>
+			<ARC ORDER='1'>
+				<NAME>
+					<ID><![CDATA[0]]></ID>
+						
+					<STR><![CDATA[]]></STR>
+						</NAME>
+					
+				<TAGCENTER>
+					<X><![CDATA[0]]></X>
+						
+					<Y><![CDATA[0]]></Y>
+						</TAGCENTER>
+					
+				<TPOINT>
+					<POINT ORDER='1'>
+						<X><![CDATA[64]]></X>
+							
+						<Y><![CDATA[-56]]></Y>
+							</POINT>
+						
+					<POINT ORDER='2'>
+						<X><![CDATA[112]]></X>
+							
+						<Y><![CDATA[-56]]></Y>
+							</POINT>
+						</TPOINT>
+					
+				<NEXTINDICE><![CDATA[1]]></NEXTINDICE>
+					
+				<PREVIOUSINDICE><![CDATA[0]]></PREVIOUSINDICE>
+					
+				<CONDITION><![CDATA[]]></CONDITION>
+					</ARC>
+				
+			<ARC ORDER='2'>
+				<NAME>
+					<ID><![CDATA[0]]></ID>
+						
+					<STR><![CDATA[]]></STR>
+						</NAME>
+					
+				<TAGCENTER>
+					<X><![CDATA[0]]></X>
+						
+					<Y><![CDATA[0]]></Y>
+						</TAGCENTER>
+					
+				<TPOINT>
+					<POINT ORDER='1'>
+						<X><![CDATA[220]]></X>
+							
+						<Y><![CDATA[-56]]></Y>
+							</POINT>
+						
+					<POINT ORDER='2'>
+						<X><![CDATA[248]]></X>
+							
+						<Y><![CDATA[-56]]></Y>
+							</POINT>
+						</TPOINT>
+					
+				<NEXTINDICE><![CDATA[2]]></NEXTINDICE>
+					
+				<PREVIOUSINDICE><![CDATA[1]]></PREVIOUSINDICE>
+					
+				<CONDITION><![CDATA[]]></CONDITION>
+					</ARC>
+				
+			<ARC ORDER='3'>
+				<NAME>
+					<ID><![CDATA[0]]></ID>
+						
+					<STR><![CDATA[]]></STR>
+						</NAME>
+					
+				<TAGCENTER>
+					<X><![CDATA[0]]></X>
+						
+					<Y><![CDATA[0]]></Y>
+						</TAGCENTER>
+					
+				<TPOINT>
+					<POINT ORDER='1'>
+						<X><![CDATA[280]]></X>
+							
+						<Y><![CDATA[-56]]></Y>
+							</POINT>
+						
+					<POINT ORDER='2'>
+						<X><![CDATA[296]]></X>
+							
+						<Y><![CDATA[-56]]></Y>
+							</POINT>
+						
+					<POINT ORDER='3'>
+						<X><![CDATA[304]]></X>
+							
+						<Y><![CDATA[-56]]></Y>
+							</POINT>
+						</TPOINT>
+					
+				<NEXTINDICE><![CDATA[3]]></NEXTINDICE>
+					
+				<PREVIOUSINDICE><![CDATA[2]]></PREVIOUSINDICE>
+					
+				<CONDITION><![CDATA[   3OVERDUE   ]]></CONDITION>
+					</ARC>
+				</TARC>
+			
+		<ID><![CDATA[46029]]></ID>
+			
+		<STR><![CDATA[]]></STR>
+			</ICN>
+		
+	<PROCEDURE>
+		<DESCRIPTION><![CDATA[]]></DESCRIPTION>
+			
+		<OVERDUELIMIT>
+			<MONTH><![CDATA[0]]></MONTH>
+				
+			<YEAR><![CDATA[0]]></YEAR>
+				
+			<DAY><![CDATA[0]]></DAY>
+				
+			<HOUR><![CDATA[0]]></HOUR>
+				
+			<MINUTE><![CDATA[0]]></MINUTE>
+				
+			<SECOND><![CDATA[0]]></SECOND>
+				</OVERDUELIMIT>
+			
+		<PUBLICATIONSTATUS><![CDATA[1]]></PUBLICATIONSTATUS>
+			
+		<REVISIONNUMBER><![CDATA[1]]></REVISIONNUMBER>
+			
+		<CREATIONDATE>
+			<MONTH><![CDATA[10]]></MONTH>
+				
+			<YEAR><![CDATA[2012]]></YEAR>
+				
+			<DAY><![CDATA[31]]></DAY>
+				
+			<HOUR><![CDATA[0]]></HOUR>
+				
+			<MINUTE><![CDATA[20]]></MINUTE>
+				
+			<SECOND><![CDATA[23]]></SECOND>
+				</CREATIONDATE>
+			
+		<STANDARDDURATION>
+			<MONTH><![CDATA[0]]></MONTH>
+				
+			<YEAR><![CDATA[0]]></YEAR>
+				
+			<DAY><![CDATA[0]]></DAY>
+				
+			<HOUR><![CDATA[0]]></HOUR>
+				
+			<MINUTE><![CDATA[0]]></MINUTE>
+				
+			<SECOND><![CDATA[0]]></SECOND>
+				</STANDARDDURATION>
+			
+		<ROLEINITIATORREF>
+			<ID><![CDATA[-1]]></ID>
+				
+			<STR><![CDATA[]]></STR>
+				</ROLEINITIATORREF>
+			
+		<DEFAULTPRIORITY><![CDATA[50]]></DEFAULTPRIORITY>
+			
+		<AUTHORREF>
+			<ID><![CDATA[1]]></ID>
+				
+			<STR><![CDATA[w4adm]]></STR>
+				</AUTHORREF>
+			
+		<ICNREF>
+			<ID><![CDATA[0]]></ID>
+				
+			<STR><![CDATA[]]></STR>
+				</ICNREF>
+			
+		<ALARMDATE>
+			<MONTH><![CDATA[0]]></MONTH>
+				
+			<YEAR><![CDATA[0]]></YEAR>
+				
+			<DAY><![CDATA[0]]></DAY>
+				
+			<HOUR><![CDATA[0]]></HOUR>
+				
+			<MINUTE><![CDATA[0]]></MINUTE>
+				
+			<SECOND><![CDATA[0]]></SECOND>
+				</ALARMDATE>
+			
+		<ROLERESPONSIBLEREF>
+			<ID><![CDATA[1]]></ID>
+				
+			<STR><![CDATA[administrator]]></STR>
+				</ROLERESPONSIBLEREF>
+			
+		<ID><![CDATA[46030]]></ID>
+			
+		<STR><![CDATA[ALLNEWTASK_NOTIFICATION]]></STR>
+			</PROCEDURE>
+		
+	<TPROCVARIABLE>
+		<PROCVARIABLE ORDER='1'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[SYS_USER]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[system]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				
+			<VISIBILITY><![CDATA[0]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='2'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[TaskId]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[1]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				
+			<VISIBILITY><![CDATA[0]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='3'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_P_CONNECTOR_CONTRACT_ID0]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[1351637848720]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='4'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_P_CONNECTOR_CONTRACT_ID1]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='5'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_P_CONNECTOR_CONTRACT_ID2]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='6'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_P_CONNECTOR_CONTRACT_ID3]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[1351730182326]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='7'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_P_CONNECTOR_CONTRACT_ID4]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='8'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_P_CONNECTOR_ID0]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[W4JavaMail]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='9'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_P_CONNECTOR_ID1]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[W4JavaMail]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='10'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_P_CONNECTOR_ID2]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[W4JavaMail]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='11'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_P_CONNECTOR_ID3]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[W4JavaMail]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='12'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_P_CONNECTOR_ID4]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[W4JavaMail]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='13'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_P_CONNECTOR_ID5]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[W4JavaMail]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='14'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_P_CONNECTOR_VERSION0]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[2.0]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='15'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_P_CONNECTOR_VERSION1]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[2.0]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='16'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_P_CONNECTOR_VERSION2]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[2.0]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='17'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_P_CONNECTOR_VERSION3]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[2.0]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='18'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_P_CONNECTOR_VERSION4]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[2.0]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='19'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_P_CONNECTOR_VERSION5]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[2.0]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='20'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__attachedDocumentVariables0]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='21'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__attachedDocumentVariables1]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='22'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__attachedDocumentVariables2]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='23'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__attachedDocumentVariables3]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='24'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__attachedDocumentVariables4]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='25'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__attachedDocumentVariables5]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='26'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__attachedFilePathVariables0]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='27'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__attachedFilePathVariables1]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='28'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__attachedFilePathVariables2]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='29'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__attachedFilePathVariables3]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='30'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__attachedFilePathVariables4]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='31'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__attachedFilePathVariables5]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='32'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__attachedFilePaths0]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='33'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__attachedFilePaths1]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='34'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__attachedFilePaths2]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='35'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__attachedFilePaths3]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='36'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__attachedFilePaths4]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='37'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__attachedFilePaths5]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='38'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__attachedVariables0]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='39'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__attachedVariables1]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='40'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__attachedVariables2]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[Application]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='41'>
+			<NAME>
+				<ID><![CDATA[1]]></ID>
+					
+				<STR><![CDATA[_internal__attachedVariables2]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[Activity]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='42'>
+			<NAME>
+				<ID><![CDATA[2]]></ID>
+					
+				<STR><![CDATA[_internal__attachedVariables2]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[Workcase]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='43'>
+			<NAME>
+				<ID><![CDATA[3]]></ID>
+					
+				<STR><![CDATA[_internal__attachedVariables2]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[Procedure]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='44'>
+			<NAME>
+				<ID><![CDATA[4]]></ID>
+					
+				<STR><![CDATA[_internal__attachedVariables2]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[Task]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='45'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__attachedVariables3]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[Application]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='46'>
+			<NAME>
+				<ID><![CDATA[1]]></ID>
+					
+				<STR><![CDATA[_internal__attachedVariables3]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[Activity]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='47'>
+			<NAME>
+				<ID><![CDATA[2]]></ID>
+					
+				<STR><![CDATA[_internal__attachedVariables3]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[Workcase]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='48'>
+			<NAME>
+				<ID><![CDATA[3]]></ID>
+					
+				<STR><![CDATA[_internal__attachedVariables3]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[Procedure]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='49'>
+			<NAME>
+				<ID><![CDATA[4]]></ID>
+					
+				<STR><![CDATA[_internal__attachedVariables3]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[Task]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='50'>
+			<NAME>
+				<ID><![CDATA[5]]></ID>
+					
+				<STR><![CDATA[_internal__attachedVariables3]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[Step]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='51'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__attachedVariables4]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[Application]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='52'>
+			<NAME>
+				<ID><![CDATA[1]]></ID>
+					
+				<STR><![CDATA[_internal__attachedVariables4]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[Activity]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='53'>
+			<NAME>
+				<ID><![CDATA[2]]></ID>
+					
+				<STR><![CDATA[_internal__attachedVariables4]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[Workcase]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='54'>
+			<NAME>
+				<ID><![CDATA[3]]></ID>
+					
+				<STR><![CDATA[_internal__attachedVariables4]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[Procedure]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='55'>
+			<NAME>
+				<ID><![CDATA[4]]></ID>
+					
+				<STR><![CDATA[_internal__attachedVariables4]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[Task]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='56'>
+			<NAME>
+				<ID><![CDATA[5]]></ID>
+					
+				<STR><![CDATA[_internal__attachedVariables4]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[Step]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='57'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__attachedVariables5]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[Application]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='58'>
+			<NAME>
+				<ID><![CDATA[1]]></ID>
+					
+				<STR><![CDATA[_internal__attachedVariables5]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[Activity]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='59'>
+			<NAME>
+				<ID><![CDATA[2]]></ID>
+					
+				<STR><![CDATA[_internal__attachedVariables5]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[Workcase]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='60'>
+			<NAME>
+				<ID><![CDATA[3]]></ID>
+					
+				<STR><![CDATA[_internal__attachedVariables5]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[Procedure]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='61'>
+			<NAME>
+				<ID><![CDATA[4]]></ID>
+					
+				<STR><![CDATA[_internal__attachedVariables5]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[Task]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='62'>
+			<NAME>
+				<ID><![CDATA[5]]></ID>
+					
+				<STR><![CDATA[_internal__attachedVariables5]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[Step]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='63'>
+			<NAME>
+				<ID><![CDATA[6]]></ID>
+					
+				<STR><![CDATA[_internal__attachedVariables5]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[Actors]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='64'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__bccActorVariables0]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='65'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__bccActorVariables1]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='66'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__bccActorVariables2]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='67'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__bccActorVariables3]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='68'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__bccActorVariables4]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='69'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__bccActorVariables5]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='70'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__bccActors0]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='71'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__bccActors1]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='72'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__bccActors2]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='73'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__bccActors3]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='74'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__bccActors4]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='75'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__bccActors5]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='76'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__bccEmailVariables0]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='77'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__bccEmailVariables1]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='78'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__bccEmailVariables2]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='79'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__bccEmailVariables3]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='80'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__bccEmailVariables4]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='81'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__bccEmailVariables5]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='82'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__bccEmails0]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='83'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__bccEmails1]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='84'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__bccEmails2]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='85'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__bccEmails3]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='86'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__bccEmails4]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='87'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__bccEmails5]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='88'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__bccRoleVariables0]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='89'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__bccRoleVariables1]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='90'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__bccRoleVariables2]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='91'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__bccRoleVariables3]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='92'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__bccRoleVariables4]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='93'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__bccRoleVariables5]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='94'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__bccRoles0]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='95'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__bccRoles1]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='96'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__bccRoles2]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='97'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__bccRoles3]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='98'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__bccRoles4]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='99'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__bccRoles5]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='100'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__ccActorVariables0]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='101'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__ccActorVariables1]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='102'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__ccActorVariables2]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='103'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__ccActorVariables3]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='104'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__ccActorVariables4]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='105'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__ccActorVariables5]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='106'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__ccActors0]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='107'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__ccActors1]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='108'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__ccActors2]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='109'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__ccActors3]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='110'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__ccActors4]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='111'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__ccActors5]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='112'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__ccEmailVariables0]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='113'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__ccEmailVariables1]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='114'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__ccEmailVariables2]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='115'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__ccEmailVariables3]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='116'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__ccEmailVariables4]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='117'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__ccEmailVariables5]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='118'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__ccEmails0]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='119'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__ccEmails1]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='120'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__ccEmails2]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='121'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__ccEmails3]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='122'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__ccEmails4]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='123'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__ccEmails5]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='124'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__ccRoleVariables0]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='125'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__ccRoleVariables1]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='126'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__ccRoleVariables2]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='127'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__ccRoleVariables3]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='128'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__ccRoleVariables4]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='129'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__ccRoleVariables5]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='130'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__ccRoles0]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='131'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__ccRoles1]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='132'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__ccRoles2]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='133'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__ccRoles3]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='134'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__ccRoles4]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='135'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__ccRoles5]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='136'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__contentMode0]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='137'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__contentMode1]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[templateNameVariable]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='138'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__contentMode2]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[templateNameVariable]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='139'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__contentMode3]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[templateNameVariable]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='140'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__contentMode4]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[templateNameVariable]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='141'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__contentMode5]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[templateNameVariable]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='142'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__contentType0]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='143'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__contentType1]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[automatic]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='144'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__contentType2]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[automatic]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='145'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__contentType3]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[automatic]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='146'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__contentType4]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[automatic]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='147'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__contentType5]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[automatic]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='148'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__fromMode0]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='149'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__fromMode1]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[actorVariable]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='150'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__fromMode2]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[actorVariable]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='151'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__fromMode3]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[actorVariable]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='152'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__fromMode4]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[actorVariable]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='153'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__fromMode5]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[actorVariable]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='154'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__isContentParsed0]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[1]]></TYPE>
+					
+				<INTEGER><![CDATA[1]]></INTEGER>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='155'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__isContentParsed1]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[1]]></TYPE>
+					
+				<INTEGER><![CDATA[1]]></INTEGER>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='156'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__isContentParsed2]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[1]]></TYPE>
+					
+				<INTEGER><![CDATA[1]]></INTEGER>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='157'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__isContentParsed3]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[1]]></TYPE>
+					
+				<INTEGER><![CDATA[1]]></INTEGER>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='158'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__isContentParsed4]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[1]]></TYPE>
+					
+				<INTEGER><![CDATA[1]]></INTEGER>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='159'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__isContentParsed5]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[1]]></TYPE>
+					
+				<INTEGER><![CDATA[1]]></INTEGER>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='160'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__isSubjectParsed0]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[1]]></TYPE>
+					
+				<INTEGER><![CDATA[1]]></INTEGER>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='161'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__isSubjectParsed1]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[1]]></TYPE>
+					
+				<INTEGER><![CDATA[1]]></INTEGER>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='162'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__isSubjectParsed2]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[1]]></TYPE>
+					
+				<INTEGER><![CDATA[1]]></INTEGER>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='163'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__isSubjectParsed3]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[1]]></TYPE>
+					
+				<INTEGER><![CDATA[1]]></INTEGER>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='164'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__isSubjectParsed4]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[1]]></TYPE>
+					
+				<INTEGER><![CDATA[1]]></INTEGER>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='165'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__isSubjectParsed5]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[1]]></TYPE>
+					
+				<INTEGER><![CDATA[1]]></INTEGER>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='166'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__subjectMode0]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='167'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__subjectMode1]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[templateNameVariable]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='168'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__subjectMode2]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[templateNameVariable]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='169'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__subjectMode3]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[templateNameVariable]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='170'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__subjectMode4]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[templateNameVariable]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='171'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__subjectMode5]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[templateNameVariable]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='172'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__toActorVariables0]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='173'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__toActorVariables1]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='174'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__toActorVariables2]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='175'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__toActorVariables3]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='176'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__toActorVariables4]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='177'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__toActorVariables5]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='178'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__toActors0]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='179'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__toActors1]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='180'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__toActors2]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='181'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__toActors3]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='182'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__toActors4]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='183'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__toActors5]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='184'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__toEmailVariables0]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='185'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__toEmailVariables1]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='186'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__toEmailVariables2]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='187'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__toEmailVariables3]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='188'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__toEmailVariables4]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='189'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__toEmailVariables5]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='190'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__toEmails0]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='191'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__toEmails1]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='192'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__toEmails2]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='193'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__toEmails3]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='194'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__toEmails4]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='195'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__toEmails5]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='196'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__toRoleVariables0]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='197'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__toRoleVariables1]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[Actors]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='198'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__toRoleVariables2]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[Actors]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='199'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__toRoleVariables3]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[Actors]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='200'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__toRoleVariables4]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[Application]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='201'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__toRoleVariables5]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[Actors]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='202'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__toRoles0]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='203'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__toRoles1]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='204'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__toRoles2]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='205'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__toRoles3]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='206'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__toRoles4]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='207'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_internal__toRoles5]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='208'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_P_CONNECTOR_ID6]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[__nop]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			
+		<PROCVARIABLE ORDER='209'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[_P_CONNECTOR_VERSION6]]></STR>
+					</NAME>
+				
+			<DEFAULTVALUE>
+				<TYPE><![CDATA[3]]></TYPE>
+					
+				<STRING><![CDATA[1.0]]></STRING>
+					</DEFAULTVALUE>
+				
+			<MODE><![CDATA[7]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				
+			<VISIBILITY><![CDATA[2]]></VISIBILITY>
+				</PROCVARIABLE>
+			</TPROCVARIABLE>
+		
+	<ID><![CDATA[0]]></ID>
+		
+	<STR><![CDATA[]]></STR>
+		</FULLPROCEDURE>
+	<TFULLPROCEDUREMETHOD><UNMARSHALL><CLASS><![CDATA[fr.w4.buildtime.dynamic.TWFTfullProcedure]]></CLASS></UNMARSHALL></TFULLPROCEDUREMETHOD></TFULLPROCEDURE>
+<TACTIVITY>
+
+<ACTIVITY ORDER='1'>
+	<TYPE><![CDATA[37]]></TYPE>
+		
+	<DESCRIPTION><![CDATA[Pas d'opération]]></DESCRIPTION>
+		
+	<COMMAND_LINE><![CDATA[]]></COMMAND_LINE>
+		
+	<TACTIVITYVARIABLE></TACTIVITYVARIABLE>
+		
+	<CREATIONDATE>
+		<MONTH><![CDATA[0]]></MONTH>
+			
+		<YEAR><![CDATA[0]]></YEAR>
+			
+		<DAY><![CDATA[0]]></DAY>
+			
+		<HOUR><![CDATA[0]]></HOUR>
+			
+		<MINUTE><![CDATA[0]]></MINUTE>
+			
+		<SECOND><![CDATA[0]]></SECOND>
+			</CREATIONDATE>
+		
+	<STANDARDDURATION>
+		<MONTH><![CDATA[0]]></MONTH>
+			
+		<YEAR><![CDATA[0]]></YEAR>
+			
+		<DAY><![CDATA[1]]></DAY>
+			
+		<HOUR><![CDATA[0]]></HOUR>
+			
+		<MINUTE><![CDATA[0]]></MINUTE>
+			
+		<SECOND><![CDATA[0]]></SECOND>
+			</STANDARDDURATION>
+		
+	<AUTHORREF>
+		<ID><![CDATA[0]]></ID>
+			
+		<STR><![CDATA[]]></STR>
+			</AUTHORREF>
+		
+	<ID><![CDATA[0]]></ID>
+		
+	<STR><![CDATA[__nop_1_0]]></STR>
+		</ACTIVITY>
+	
+<ACTIVITY ORDER='2'>
+	<TYPE><![CDATA[37]]></TYPE>
+		
+	<DESCRIPTION><![CDATA[Crée un dossier dans une GED.]]></DESCRIPTION>
+		
+	<COMMAND_LINE><![CDATA[]]></COMMAND_LINE>
+		
+	<TACTIVITYVARIABLE>
+		<ACTIVITYVARIABLE ORDER='1'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[doc2create]]></STR>
+					</NAME>
+				
+			<TYPE><![CDATA[259]]></TYPE>
+				
+			<MODE><![CDATA[2]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				</ACTIVITYVARIABLE>
+			
+		<ACTIVITYVARIABLE ORDER='2'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[docType]]></STR>
+					</NAME>
+				
+			<TYPE><![CDATA[3]]></TYPE>
+				
+			<MODE><![CDATA[1]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				</ACTIVITYVARIABLE>
+			
+		<ACTIVITYVARIABLE ORDER='3'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[mapping]]></STR>
+					</NAME>
+				
+			<TYPE><![CDATA[3]]></TYPE>
+				
+			<MODE><![CDATA[1]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				</ACTIVITYVARIABLE>
+			
+		<ACTIVITYVARIABLE ORDER='4'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[plugin_source]]></STR>
+					</NAME>
+				
+			<TYPE><![CDATA[3]]></TYPE>
+				
+			<MODE><![CDATA[1]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				</ACTIVITYVARIABLE>
+			
+		<ACTIVITYVARIABLE ORDER='5'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[plugin_sourcePath]]></STR>
+					</NAME>
+				
+			<TYPE><![CDATA[3]]></TYPE>
+				
+			<MODE><![CDATA[1]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				</ACTIVITYVARIABLE>
+			</TACTIVITYVARIABLE>
+		
+	<CREATIONDATE>
+		<MONTH><![CDATA[0]]></MONTH>
+			
+		<YEAR><![CDATA[0]]></YEAR>
+			
+		<DAY><![CDATA[0]]></DAY>
+			
+		<HOUR><![CDATA[0]]></HOUR>
+			
+		<MINUTE><![CDATA[0]]></MINUTE>
+			
+		<SECOND><![CDATA[0]]></SECOND>
+			</CREATIONDATE>
+		
+	<STANDARDDURATION>
+		<MONTH><![CDATA[0]]></MONTH>
+			
+		<YEAR><![CDATA[0]]></YEAR>
+			
+		<DAY><![CDATA[1]]></DAY>
+			
+		<HOUR><![CDATA[0]]></HOUR>
+			
+		<MINUTE><![CDATA[0]]></MINUTE>
+			
+		<SECOND><![CDATA[0]]></SECOND>
+			</STANDARDDURATION>
+		
+	<AUTHORREF>
+		<ID><![CDATA[0]]></ID>
+			
+		<STR><![CDATA[]]></STR>
+			</AUTHORREF>
+		
+	<ID><![CDATA[0]]></ID>
+		
+	<STR><![CDATA[CreateFolder_1_0]]></STR>
+		</ACTIVITY>
+	
+<ACTIVITY ORDER='3'>
+	<TYPE><![CDATA[37]]></TYPE>
+		
+	<DESCRIPTION><![CDATA[Génération d'un document et stockage dans une GED.]]></DESCRIPTION>
+		
+	<COMMAND_LINE><![CDATA[]]></COMMAND_LINE>
+		
+	<TACTIVITYVARIABLE>
+		<ACTIVITYVARIABLE ORDER='1'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[doc2create]]></STR>
+					</NAME>
+				
+			<TYPE><![CDATA[259]]></TYPE>
+				
+			<MODE><![CDATA[2]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				</ACTIVITYVARIABLE>
+			
+		<ACTIVITYVARIABLE ORDER='2'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[attachedVariables]]></STR>
+					</NAME>
+				
+			<TYPE><![CDATA[3]]></TYPE>
+				
+			<MODE><![CDATA[1]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				</ACTIVITYVARIABLE>
+			
+		<ACTIVITYVARIABLE ORDER='3'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[docType]]></STR>
+					</NAME>
+				
+			<TYPE><![CDATA[3]]></TYPE>
+				
+			<MODE><![CDATA[1]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				</ACTIVITYVARIABLE>
+			
+		<ACTIVITYVARIABLE ORDER='4'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[generationType]]></STR>
+					</NAME>
+				
+			<TYPE><![CDATA[3]]></TYPE>
+				
+			<MODE><![CDATA[1]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				</ACTIVITYVARIABLE>
+			
+		<ACTIVITYVARIABLE ORDER='5'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[mapping]]></STR>
+					</NAME>
+				
+			<TYPE><![CDATA[3]]></TYPE>
+				
+			<MODE><![CDATA[1]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				</ACTIVITYVARIABLE>
+			
+		<ACTIVITYVARIABLE ORDER='6'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[plugin_source]]></STR>
+					</NAME>
+				
+			<TYPE><![CDATA[3]]></TYPE>
+				
+			<MODE><![CDATA[1]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				</ACTIVITYVARIABLE>
+			
+		<ACTIVITYVARIABLE ORDER='7'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[plugin_sourcePath]]></STR>
+					</NAME>
+				
+			<TYPE><![CDATA[3]]></TYPE>
+				
+			<MODE><![CDATA[1]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				</ACTIVITYVARIABLE>
+			</TACTIVITYVARIABLE>
+		
+	<CREATIONDATE>
+		<MONTH><![CDATA[0]]></MONTH>
+			
+		<YEAR><![CDATA[0]]></YEAR>
+			
+		<DAY><![CDATA[0]]></DAY>
+			
+		<HOUR><![CDATA[0]]></HOUR>
+			
+		<MINUTE><![CDATA[0]]></MINUTE>
+			
+		<SECOND><![CDATA[0]]></SECOND>
+			</CREATIONDATE>
+		
+	<STANDARDDURATION>
+		<MONTH><![CDATA[0]]></MONTH>
+			
+		<YEAR><![CDATA[0]]></YEAR>
+			
+		<DAY><![CDATA[1]]></DAY>
+			
+		<HOUR><![CDATA[0]]></HOUR>
+			
+		<MINUTE><![CDATA[0]]></MINUTE>
+			
+		<SECOND><![CDATA[0]]></SECOND>
+			</STANDARDDURATION>
+		
+	<AUTHORREF>
+		<ID><![CDATA[0]]></ID>
+			
+		<STR><![CDATA[]]></STR>
+			</AUTHORREF>
+		
+	<ID><![CDATA[0]]></ID>
+		
+	<STR><![CDATA[GenerateDocument_1_0]]></STR>
+		</ACTIVITY>
+	
+<ACTIVITY ORDER='4'>
+	<TYPE><![CDATA[37]]></TYPE>
+		
+	<DESCRIPTION><![CDATA[(Java) Envoi de courrier]]></DESCRIPTION>
+		
+	<COMMAND_LINE><![CDATA[]]></COMMAND_LINE>
+		
+	<TACTIVITYVARIABLE>
+		<ACTIVITYVARIABLE ORDER='1'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[Activity]]></STR>
+					</NAME>
+				
+			<TYPE><![CDATA[3]]></TYPE>
+				
+			<MODE><![CDATA[1]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				</ACTIVITYVARIABLE>
+			
+		<ACTIVITYVARIABLE ORDER='2'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[Actors]]></STR>
+					</NAME>
+				
+			<TYPE><![CDATA[3]]></TYPE>
+				
+			<MODE><![CDATA[1]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				</ACTIVITYVARIABLE>
+			
+		<ACTIVITYVARIABLE ORDER='3'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[Application]]></STR>
+					</NAME>
+				
+			<TYPE><![CDATA[3]]></TYPE>
+				
+			<MODE><![CDATA[1]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				</ACTIVITYVARIABLE>
+			
+		<ACTIVITYVARIABLE ORDER='4'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[Procedure]]></STR>
+					</NAME>
+				
+			<TYPE><![CDATA[3]]></TYPE>
+				
+			<MODE><![CDATA[1]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				</ACTIVITYVARIABLE>
+			
+		<ACTIVITYVARIABLE ORDER='5'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[Step]]></STR>
+					</NAME>
+				
+			<TYPE><![CDATA[3]]></TYPE>
+				
+			<MODE><![CDATA[1]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				</ACTIVITYVARIABLE>
+			
+		<ACTIVITYVARIABLE ORDER='6'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[Task]]></STR>
+					</NAME>
+				
+			<TYPE><![CDATA[3]]></TYPE>
+				
+			<MODE><![CDATA[1]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				</ACTIVITYVARIABLE>
+			
+		<ACTIVITYVARIABLE ORDER='7'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[Workcase]]></STR>
+					</NAME>
+				
+			<TYPE><![CDATA[3]]></TYPE>
+				
+			<MODE><![CDATA[1]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				</ACTIVITYVARIABLE>
+			
+		<ACTIVITYVARIABLE ORDER='8'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[internal__attachedDocumentVariables]]></STR>
+					</NAME>
+				
+			<TYPE><![CDATA[3]]></TYPE>
+				
+			<MODE><![CDATA[1]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				</ACTIVITYVARIABLE>
+			
+		<ACTIVITYVARIABLE ORDER='9'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[internal__attachedFilePathVariables]]></STR>
+					</NAME>
+				
+			<TYPE><![CDATA[3]]></TYPE>
+				
+			<MODE><![CDATA[1]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				</ACTIVITYVARIABLE>
+			
+		<ACTIVITYVARIABLE ORDER='10'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[internal__attachedFilePaths]]></STR>
+					</NAME>
+				
+			<TYPE><![CDATA[3]]></TYPE>
+				
+			<MODE><![CDATA[1]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				</ACTIVITYVARIABLE>
+			
+		<ACTIVITYVARIABLE ORDER='11'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[internal__attachedVariables]]></STR>
+					</NAME>
+				
+			<TYPE><![CDATA[3]]></TYPE>
+				
+			<MODE><![CDATA[1]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				</ACTIVITYVARIABLE>
+			
+		<ACTIVITYVARIABLE ORDER='12'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[internal__bccActorVariables]]></STR>
+					</NAME>
+				
+			<TYPE><![CDATA[3]]></TYPE>
+				
+			<MODE><![CDATA[1]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				</ACTIVITYVARIABLE>
+			
+		<ACTIVITYVARIABLE ORDER='13'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[internal__bccActors]]></STR>
+					</NAME>
+				
+			<TYPE><![CDATA[3]]></TYPE>
+				
+			<MODE><![CDATA[1]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				</ACTIVITYVARIABLE>
+			
+		<ACTIVITYVARIABLE ORDER='14'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[internal__bccEmailVariables]]></STR>
+					</NAME>
+				
+			<TYPE><![CDATA[3]]></TYPE>
+				
+			<MODE><![CDATA[1]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				</ACTIVITYVARIABLE>
+			
+		<ACTIVITYVARIABLE ORDER='15'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[internal__bccEmails]]></STR>
+					</NAME>
+				
+			<TYPE><![CDATA[3]]></TYPE>
+				
+			<MODE><![CDATA[1]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				</ACTIVITYVARIABLE>
+			
+		<ACTIVITYVARIABLE ORDER='16'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[internal__bccRoleVariables]]></STR>
+					</NAME>
+				
+			<TYPE><![CDATA[3]]></TYPE>
+				
+			<MODE><![CDATA[1]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				</ACTIVITYVARIABLE>
+			
+		<ACTIVITYVARIABLE ORDER='17'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[internal__bccRoles]]></STR>
+					</NAME>
+				
+			<TYPE><![CDATA[3]]></TYPE>
+				
+			<MODE><![CDATA[1]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				</ACTIVITYVARIABLE>
+			
+		<ACTIVITYVARIABLE ORDER='18'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[internal__ccActorVariables]]></STR>
+					</NAME>
+				
+			<TYPE><![CDATA[3]]></TYPE>
+				
+			<MODE><![CDATA[1]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				</ACTIVITYVARIABLE>
+			
+		<ACTIVITYVARIABLE ORDER='19'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[internal__ccActors]]></STR>
+					</NAME>
+				
+			<TYPE><![CDATA[3]]></TYPE>
+				
+			<MODE><![CDATA[1]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				</ACTIVITYVARIABLE>
+			
+		<ACTIVITYVARIABLE ORDER='20'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[internal__ccEmailVariables]]></STR>
+					</NAME>
+				
+			<TYPE><![CDATA[3]]></TYPE>
+				
+			<MODE><![CDATA[1]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				</ACTIVITYVARIABLE>
+			
+		<ACTIVITYVARIABLE ORDER='21'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[internal__ccEmails]]></STR>
+					</NAME>
+				
+			<TYPE><![CDATA[3]]></TYPE>
+				
+			<MODE><![CDATA[1]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				</ACTIVITYVARIABLE>
+			
+		<ACTIVITYVARIABLE ORDER='22'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[internal__ccRoleVariables]]></STR>
+					</NAME>
+				
+			<TYPE><![CDATA[3]]></TYPE>
+				
+			<MODE><![CDATA[1]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				</ACTIVITYVARIABLE>
+			
+		<ACTIVITYVARIABLE ORDER='23'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[internal__ccRoles]]></STR>
+					</NAME>
+				
+			<TYPE><![CDATA[3]]></TYPE>
+				
+			<MODE><![CDATA[1]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				</ACTIVITYVARIABLE>
+			
+		<ACTIVITYVARIABLE ORDER='24'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[internal__content]]></STR>
+					</NAME>
+				
+			<TYPE><![CDATA[3]]></TYPE>
+				
+			<MODE><![CDATA[1]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				</ACTIVITYVARIABLE>
+			
+		<ACTIVITYVARIABLE ORDER='25'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[internal__contentMode]]></STR>
+					</NAME>
+				
+			<TYPE><![CDATA[3]]></TYPE>
+				
+			<MODE><![CDATA[1]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				</ACTIVITYVARIABLE>
+			
+		<ACTIVITYVARIABLE ORDER='26'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[internal__contentType]]></STR>
+					</NAME>
+				
+			<TYPE><![CDATA[3]]></TYPE>
+				
+			<MODE><![CDATA[1]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				</ACTIVITYVARIABLE>
+			
+		<ACTIVITYVARIABLE ORDER='27'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[internal__from]]></STR>
+					</NAME>
+				
+			<TYPE><![CDATA[3]]></TYPE>
+				
+			<MODE><![CDATA[1]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				</ACTIVITYVARIABLE>
+			
+		<ACTIVITYVARIABLE ORDER='28'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[internal__fromMode]]></STR>
+					</NAME>
+				
+			<TYPE><![CDATA[3]]></TYPE>
+				
+			<MODE><![CDATA[1]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				</ACTIVITYVARIABLE>
+			
+		<ACTIVITYVARIABLE ORDER='29'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[internal__isContentParsed]]></STR>
+					</NAME>
+				
+			<TYPE><![CDATA[1]]></TYPE>
+				
+			<MODE><![CDATA[1]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				</ACTIVITYVARIABLE>
+			
+		<ACTIVITYVARIABLE ORDER='30'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[internal__isSubjectParsed]]></STR>
+					</NAME>
+				
+			<TYPE><![CDATA[1]]></TYPE>
+				
+			<MODE><![CDATA[1]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				</ACTIVITYVARIABLE>
+			
+		<ACTIVITYVARIABLE ORDER='31'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[internal__subject]]></STR>
+					</NAME>
+				
+			<TYPE><![CDATA[3]]></TYPE>
+				
+			<MODE><![CDATA[1]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				</ACTIVITYVARIABLE>
+			
+		<ACTIVITYVARIABLE ORDER='32'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[internal__subjectMode]]></STR>
+					</NAME>
+				
+			<TYPE><![CDATA[3]]></TYPE>
+				
+			<MODE><![CDATA[1]]></MODE>
+				
+			<ARITY><![CDATA[0]]></ARITY>
+				</ACTIVITYVARIABLE>
+			
+		<ACTIVITYVARIABLE ORDER='33'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[internal__toActorVariables]]></STR>
+					</NAME>
+				
+			<TYPE><![CDATA[3]]></TYPE>
+				
+			<MODE><![CDATA[1]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				</ACTIVITYVARIABLE>
+			
+		<ACTIVITYVARIABLE ORDER='34'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[internal__toActors]]></STR>
+					</NAME>
+				
+			<TYPE><![CDATA[3]]></TYPE>
+				
+			<MODE><![CDATA[1]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				</ACTIVITYVARIABLE>
+			
+		<ACTIVITYVARIABLE ORDER='35'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[internal__toEmailVariables]]></STR>
+					</NAME>
+				
+			<TYPE><![CDATA[3]]></TYPE>
+				
+			<MODE><![CDATA[1]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				</ACTIVITYVARIABLE>
+			
+		<ACTIVITYVARIABLE ORDER='36'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[internal__toEmails]]></STR>
+					</NAME>
+				
+			<TYPE><![CDATA[3]]></TYPE>
+				
+			<MODE><![CDATA[1]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				</ACTIVITYVARIABLE>
+			
+		<ACTIVITYVARIABLE ORDER='37'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[internal__toRoleVariables]]></STR>
+					</NAME>
+				
+			<TYPE><![CDATA[3]]></TYPE>
+				
+			<MODE><![CDATA[1]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				</ACTIVITYVARIABLE>
+			
+		<ACTIVITYVARIABLE ORDER='38'>
+			<NAME>
+				<ID><![CDATA[0]]></ID>
+					
+				<STR><![CDATA[internal__toRoles]]></STR>
+					</NAME>
+				
+			<TYPE><![CDATA[3]]></TYPE>
+				
+			<MODE><![CDATA[1]]></MODE>
+				
+			<ARITY><![CDATA[1]]></ARITY>
+				</ACTIVITYVARIABLE>
+			</TACTIVITYVARIABLE>
+		
+	<CREATIONDATE>
+		<MONTH><![CDATA[11]]></MONTH>
+			
+		<YEAR><![CDATA[2012]]></YEAR>
+			
+		<DAY><![CDATA[1]]></DAY>
+			
+		<HOUR><![CDATA[10]]></HOUR>
+			
+		<MINUTE><![CDATA[8]]></MINUTE>
+			
+		<SECOND><![CDATA[3]]></SECOND>
+			</CREATIONDATE>
+		
+	<STANDARDDURATION>
+		<MONTH><![CDATA[0]]></MONTH>
+			
+		<YEAR><![CDATA[0]]></YEAR>
+			
+		<DAY><![CDATA[1]]></DAY>
+			
+		<HOUR><![CDATA[0]]></HOUR>
+			
+		<MINUTE><![CDATA[0]]></MINUTE>
+			
+		<SECOND><![CDATA[0]]></SECOND>
+			</STANDARDDURATION>
+		
+	<AUTHORREF>
+		<ID><![CDATA[1]]></ID>
+			
+		<STR><![CDATA[w4adm]]></STR>
+			</AUTHORREF>
+		
+	<ID><![CDATA[46078]]></ID>
+		
+	<STR><![CDATA[W4JavaMail_2_0_1351760841922]]></STR>
+		</ACTIVITY>
+	<TACTIVITYMETHOD><UNMARSHALL><CLASS><![CDATA[fr.w4.buildtime.dynamic.TWFTactivity]]></CLASS></UNMARSHALL></TACTIVITYMETHOD></TACTIVITY>
+<TROLE>
+
+<ROLE ORDER='1'>
+	<DESCRIPTION><![CDATA[Right to administrate the System]]></DESCRIPTION>
+		
+	<SUSPENSIONDELAY>
+		<MONTH><![CDATA[0]]></MONTH>
+			
+		<YEAR><![CDATA[0]]></YEAR>
+			
+		<DAY><![CDATA[0]]></DAY>
+			
+		<HOUR><![CDATA[0]]></HOUR>
+			
+		<MINUTE><![CDATA[0]]></MINUTE>
+			
+		<SECOND><![CDATA[0]]></SECOND>
+			</SUSPENSIONDELAY>
+		
+	<UPPERROLEREF>
+		<ID><![CDATA[-1]]></ID>
+			
+		<STR><![CDATA[]]></STR>
+			</UPPERROLEREF>
+		
+	<HOURLYBILLINGRATE><![CDATA[0.0]]></HOURLYBILLINGRATE>
+		
+	<ID><![CDATA[1]]></ID>
+		
+	<STR><![CDATA[administrator]]></STR>
+		</ROLE>
+	<TROLEMETHOD><UNMARSHALL><CLASS><![CDATA[fr.w4.buildtime.dynamic.TWFTrole]]></CLASS></UNMARSHALL></TROLEMETHOD></TROLE></WFMESSAGE>

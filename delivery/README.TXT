@@ -24,6 +24,7 @@ If there's no specific template file the notification will use the content/stand
 
 By default just english and french are supported.
 
+A special notifier was added in order to notify using any kind of service all created tasks
 
 OPTIONAL ENHANCEMENT
 
