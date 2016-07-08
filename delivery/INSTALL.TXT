@@ -19,8 +19,9 @@ Main module installation
   b. Copy the content of the w4server_notifparameter.cfg file into w4_server.cfg and replace myinstancename by the name of your w4 instance (it should be the same as the parameters which already exists in this file)
 3- Check the JavaMail configuration (By default the connector send mails to localhost server. If you want to change the default configuration please follow the related configuration documentation available on the documentation browser)
 4- Restart your Process Engine
-5- Deploy notification procedure using w4port or Process Composer :
+5- Deploy notification procedures using w4port or Process Composer :
       w4port emailnotification.w4m w4://w4adm:w4adm@localhost/w4adm?mode=update
+      w4port allnewtasknotification.w4m w4://w4adm:w4adm@localhost/w4adm?mode=update
 
 
 Optional enhancement installation
